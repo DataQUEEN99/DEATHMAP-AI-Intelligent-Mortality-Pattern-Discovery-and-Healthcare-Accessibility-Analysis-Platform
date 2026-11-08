@@ -1,0 +1,2 @@
+# DEATHMAP-AI-Intelligent-Mortality-Pattern-Discovery-and-Healthcare-Accessibility-Analysis-Platform
+NEUROGRID AI is an intelligent machine learning platform designed to discover hidden patterns, detect anomalies, and predict risk levels in complex datasets. It integrates Random Forest classification, Isolation Forest anomaly detection, explainable feature analysis, and interactive visualizations to transform raw data into actionable insights
